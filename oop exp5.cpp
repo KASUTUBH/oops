@@ -1,3 +1,6 @@
+Write a function template for Selection Sort that inputs, sorts and outputs an integer array 
+and a float array. 
+
 #include<iostream>
 using namespace std;
 #define Size 10
