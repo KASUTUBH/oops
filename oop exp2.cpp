@@ -1,3 +1,11 @@
+Develop a program in C++ to create a database of student’s information system 
+containing the following information: Name, roll number, Class, Division, Date of birth, 
+blood group, contact address, telephone number, Driving License no. and other. 
+Construct the database with suitable functions. Make use of constructor, default 
+constructor, copy constructor, destructor, static member functions, friend class, this 
+pointer, inline code and dynamic memory allocation operators - new and delete as well 
+as exception handling. 
+
 #include<iostream>
 #include <string.h>
 #include<iomanip>
